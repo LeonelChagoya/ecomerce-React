@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.productImage {
+  height: 250px;
+  object-fit: contain;
+}
+
+.buttonShop {
+  display: flex;
+  flex-direction: row-reverse;
+}
